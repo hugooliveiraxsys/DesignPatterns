@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8a121c5-67ae-4e37-9120-458e5a9fb026": {
+      "ProjectGuid": "e8a121c5-67ae-4e37-9120-458e5a9fb026",
+      "DisplayName": "Facade",
+      "ColorIndex": 0
+    },
+    "9d845b31-e992-4101-8df1-78237ec6b1d6": {
+      "ProjectGuid": "9d845b31-e992-4101-8df1-78237ec6b1d6",
+      "DisplayName": "Singleton",
+      "ColorIndex": 1
+    },
+    "fdb66149-7387-4bbb-ab5e-78af854585b5": {
+      "ProjectGuid": "fdb66149-7387-4bbb-ab5e-78af854585b5",
+      "DisplayName": "Builder",
+      "ColorIndex": 2
+    },
+    "f6922560-6677-4bfe-a9f5-d04c581fbec2": {
+      "ProjectGuid": "f6922560-6677-4bfe-a9f5-d04c581fbec2",
+      "DisplayName": "Proxy",
+      "ColorIndex": 3
+    },
+    "fed17bdb-76d5-404f-a3ae-fb4fbab30e11": {
+      "ProjectGuid": "fed17bdb-76d5-404f-a3ae-fb4fbab30e11",
+      "DisplayName": "Chain of Responsibility",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

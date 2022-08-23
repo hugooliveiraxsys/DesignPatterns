@@ -1,0 +1,16 @@
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.exe
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.deps.json
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.runtimeconfig.json
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.runtimeconfig.dev.json
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.dll
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\bin\Debug\net5.0\ref\Chain of Responsibility.dll
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.pdb
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.csproj.AssemblyReference.cache
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.AssemblyInfoInputs.cache
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.AssemblyInfo.cs
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.dll
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\obj\Debug\net5.0\ref\Chain of Responsibility.dll
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.pdb
+C:\Users\hugo\Desktop\DesignPatterns\DesignPatterns\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.genruntimeconfig.cache
